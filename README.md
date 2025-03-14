@@ -110,7 +110,7 @@ python ml_anomaly_detection.py
 python dashboard.py
 ```
 
-Then, open [**http://127.0.0.1:5000/**](http://127.0.0.1:5000/) in your browser.
+Then, open [**http://localhost/**](http://localhost:port/) in your browser.
 
 ---
 
