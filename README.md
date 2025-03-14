@@ -1,4 +1,3 @@
-# Projects
 # Real-Time U.S. Temperature Monitoring System
 
 ## 📌 Project Overview
